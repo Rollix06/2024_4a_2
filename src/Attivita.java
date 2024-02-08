@@ -1,3 +1,4 @@
+//vesione 2
 public class Attivita {
 private String nome;
 private String[] materia;
